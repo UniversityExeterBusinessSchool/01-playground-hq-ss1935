@@ -11,3 +11,5 @@ probably a frame for a children's slider or a rollercoaster structure segment
 
 ## Questions I Have
 The L-shape is too vague, needed more info to elaborate what was the purpose behind this structure creation.
+
+<img width="1108" height="1477" alt="image" src="https://github.com/user-attachments/assets/3bc02f07-d9a7-40ca-9b1d-24b701be2cd8" />
